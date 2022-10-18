@@ -12,6 +12,7 @@ body , html{
     background-image: url(../BA-M2.0/img/fondo.png);
     height:100%;
     background-size: cover;
+    background-attachment: fixed;
 }
 .contenedorPresentacion{
     position: absolute;
