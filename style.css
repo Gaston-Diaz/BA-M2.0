@@ -1,0 +1,36 @@
+body , html{
+    height: 100%;
+    font-family: sans-serif;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.bg-image{
+    position: relative;
+    background-image: url(../BA-M2.0/img/fondo.png);
+    height:100%;
+    background-size: cover;
+
+}
+.contenedor1{
+    position: absolute;
+    background-color:rgba(255, 203, 116,50%);
+    border-radius: 15px;
+    padding: 10px;
+    left: 10px;
+    top: 100px;
+}
+.contenedor1{
+    position: absolute;
+    background-color:rgba(255, 203, 116,50%);
+    border-radius: 15px;
+    padding: 10px;
+    right: 10px;
+    top: 100px;
+}
+.titulo{
+    color: aliceblue;
+    text-align: center;
+}
